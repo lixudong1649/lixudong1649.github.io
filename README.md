@@ -9,3 +9,7 @@ GitHub Pages 使用 main 分支根目录，index.html 为首页，.nojekyll 跳�
 当前展示 jdp-wiki、jdp-python；项目授权与内容使用以各自仓库声明为准。页面依赖的许可证见 THIRD_PARTY_NOTICES.txt；不以仓库可公开访问代替授权声明。
 
 © 2026 lixudong1649。
+
+## 项目界面演示
+
+[展示与资料配置演示](https://lixudong1649.github.io/jdp-profile/) 使用示例资料，编辑结果保存到当前浏览器。账号根地址仍是简版个人主页。
